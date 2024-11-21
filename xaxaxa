@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/GG/refs/heads/main/project"))()
